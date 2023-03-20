@@ -6,7 +6,7 @@
 
 ---
 
-```json
+```
 OPENAI_API_KEY=''
 OPENAI_MODEL='gpt-3.5-turbo'
 OPENAI_MAX_TOKENS=1000
